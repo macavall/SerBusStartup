@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SerBusStartup": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7214 --verbose"
+    }
+  }
+}
